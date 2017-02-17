@@ -13,4 +13,4 @@ go install github.com/tendermint/tendermint/cmd/tendermint
 go install github.com/tendermint/basecoin
 basecoin start
 tendermint init
-tendermint node
+tendermint node --abci=grpc
