@@ -1,5 +1,7 @@
 #!/bin/sh
+#One-liner: https://cdn.rawgit.com/elpinyeknom/basecoin-setup/master/setup.sh
 #Prints "installing Basecoin and Tendermint"
+# https://github.com/elpinyeknom/basecoin-setup/
 echo "Removing Prior Configuration"
 #removes tendermint configuration
 rm -rf ~/.tendermint $GOPATH/src/github.com/tendermint $GOPATH/src/github.com/tendermint/basecoin
