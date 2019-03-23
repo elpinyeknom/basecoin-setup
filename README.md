@@ -1,2 +1,3 @@
 # basecoin-setup
-How to set up basecoin
+Shell script to get Basecoin running in Tendermint.
+Might need to be updated. 
